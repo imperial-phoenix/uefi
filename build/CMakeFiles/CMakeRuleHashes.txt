@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+cabc8a2144c4c54d9031ee4487c8c305 CMakeFiles/MyOwnPkg

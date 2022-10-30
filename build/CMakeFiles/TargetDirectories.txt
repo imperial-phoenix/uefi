@@ -1,0 +1,3 @@
+/home/ygritte/MyOwnPkg/build/CMakeFiles/MyOwnPkg.dir
+/home/ygritte/MyOwnPkg/build/CMakeFiles/edit_cache.dir
+/home/ygritte/MyOwnPkg/build/CMakeFiles/rebuild_cache.dir
